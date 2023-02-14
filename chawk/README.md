@@ -1,4 +1,4 @@
-# nigis
+# chawkbazaar 
 
 ## Project setup
 ```
