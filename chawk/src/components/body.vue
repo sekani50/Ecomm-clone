@@ -1,6 +1,6 @@
 <!-- eslint-disable -->
 <template>
-  <div class="set">
+  <div class="set mt-[5rem] sm:mt-[6rem]">
     <!---top banner-->
     <div>
       <TopBanner />
@@ -25,7 +25,4 @@ export default {
 <!-- eslint-disable -->
 <style scoped>
 /* eslint-disable */
-.set {
-  margin-top: 6rem;
-}
 </style>
